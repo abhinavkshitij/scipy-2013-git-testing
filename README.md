@@ -15,4 +15,4 @@ contact [info@software-carpentry.org](mailto:info@software-carpentry.org).
 [Software Carpentry]: http://software-carpentry.org
 [swc-page]: http://swcarpentry.github.io/boot-camps/2013-06-25-scipy/
 
-Made by changes here
+Made my changes here
